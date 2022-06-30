@@ -1,0 +1,24 @@
+.Knopf
+{   
+    background-color: black;
+
+    color: white;
+
+}
+
+.Taste
+
+{
+    background-color: yellow;
+
+}
+
+.Knopf,
+.Taste
+
+{
+    font-size: 22px;
+    font-family: 
+     Helvetica, 'Times New Roman', Times, sans-serif;
+
+}
